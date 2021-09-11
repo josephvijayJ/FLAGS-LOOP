@@ -1,0 +1,19 @@
+/* .super {
+  width: 50%;
+  height: 50vh;
+}
+.js-para {
+  font-style: oblique;
+  font-size: 3rem;
+} */
+
+.container {
+  text-align: center;
+}
+.flag {
+  width: 30%;
+  height: 30%;
+}
+.info {
+  border: 2px solid black;
+}
